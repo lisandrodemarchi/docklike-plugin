@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Docklike-plugin i18n file
+# Copyright (C) 2020 Nicolas Szabo
+# This file is distributed under the same license as the Docklike package.
+# Nicolas Szabo <nszabo@vivaldi.net>, 2020.
 #
 msgid ""
 msgstr ""
